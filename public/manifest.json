@@ -1,0 +1,17 @@
+{
+  "name": "Linden — расчётный центр",
+  "short_name": "Linden",
+  "description": "Расчёт стоимости мебели, сметы, договоры и производственные документы.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#F4F2ED",
+  "theme_color": "#211A12",
+  "lang": "ru",
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
